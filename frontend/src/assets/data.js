@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+      option1: "3.6",
+      option2: "7.2",
+      option3: "8.4",
+      option4: "10",
+      ans: 1,
+    },
+    {
+      question: "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
+      option1: "50 km",
+      option2: "56 km",
+      option3: "70 km",
+      option4: "80 km",
+      ans: 4,
+    },
+    {
+      question: "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
+      option1: "100 kmph",
+      option2: "110 kmph",
+      option3: "120 kmph",
+      option4: "130 kmph",
+      ans: 1,
+    },
+    {
+      question: "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+      option1: "9",
+      option2: "10",
+      option3: "12",
+      option4: "20",
+      ans: 3,
+    },
+    {
+      question: "In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/hr and the time of flight increased by 30 minutes. The duration of the flight is:",
+      option1: "1 hour",
+      option2: "2 hours",
+      option3: "3 hours",
+      option4: "4 hours",
+      ans: 2,
+    },
+  ];
